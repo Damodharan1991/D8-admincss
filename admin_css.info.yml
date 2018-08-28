@@ -1,0 +1,8 @@
+name: Admin css
+description: Provides admin css editor dashboard
+type: module
+package: Admin css
+# core: 8.x
+configure: admin_css.config
+core: '8.x'
+datestamp: 1531738290
